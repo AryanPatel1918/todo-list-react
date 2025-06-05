@@ -19,8 +19,8 @@ A simple to-do list application built with **React**. This app allows users to a
 - **Vite**
 
 ## 🖼️ Screenshots
-![Screenshot 1](screenshot1.png)
-![Screenshot 2](screenshot2.png)
+![Screenshot 1](src/screenshots/screenshot1.png)
+![Screenshot 2](src/screenshots/screenshot2.png)
 
 ## 📦 Installation & Running Locally
 
